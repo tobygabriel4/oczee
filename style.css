@@ -1,0 +1,41 @@
+body{
+    background-color: aquamarine;
+    font-size: 20px;
+    background-image: url(images/sunset.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-style: italic;
+    color: antiquewhite;
+
+}
+h1{
+    background-color: black;
+    font-size: 35px;
+    border-radius: 20px;
+    height: 60px;
+    color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: bisque;
+    background-color: black;
+    border-radius: 100px;
+}
+input{
+    background-color: black;
+    border-radius: 30px;
+    color: white;
+}
+button{
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 30px;
+}
